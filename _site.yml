@@ -1,7 +1,7 @@
 name: "IndeStudy"
 output_dir: "docs"
 navbar:
-  title: "Sci Ill"
+  title: "Sage Sularz  ALE 3993"
   left:
     - text: "Home"
       href: index.html
