@@ -1,5 +1,5 @@
 ---
-title: "Web Page Setup"
+title: "Advanced Scientific Illustration Techniques and Methods"
 output: html_document
 date: "2025-01-15"
 ---
@@ -8,8 +8,6 @@ date: "2025-01-15"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Overview of Study
 
-homework 1
-
-homework 2
+![Schedule](~/Desktop/IndeStudy/schedule.png)

@@ -1,5 +1,5 @@
 ---
-title: "Homework 1"
+title: "Field Sketchbook"
 output: html_document
 date: "2025-01-16"
 ---
@@ -8,4 +8,5 @@ date: "2025-01-16"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Put homework here!
+## Assignment Details
+Create a 2 page field guide introducing the study organism poplar (one page per species). Using a graphite pencil sketch and label anatomical aspects of each tree (e.g. leaf, bud, connections, branch). The final product should be accurate enough to be used for identification in the field.

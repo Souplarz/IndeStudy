@@ -1,5 +1,5 @@
 ---
-title: "Homework 2"
+title: "Full Color Poplar Branches"
 output: html_document
 date: "2025-01-16"
 ---
@@ -8,4 +8,6 @@ date: "2025-01-16"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Put Homework 2 here!
+## Assignment Details
+Create a detailed, full-color illustration of a branch from Populus balsamifera and Populus trichocarpa using colored pencils. Focus on accurately representing the structure, texture, and coloration of the branches, including leaves, buds, and other distinguishing features. The goal is to produce realistic and scientifically accurate depictions of each species.
+
