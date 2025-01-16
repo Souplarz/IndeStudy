@@ -8,6 +8,8 @@ date: "Week 2"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<br>
+
 ::: {style="text-align: center;"}
 ## Assignment Details <br>
 :::

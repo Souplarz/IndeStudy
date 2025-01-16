@@ -3,44 +3,39 @@ title: "Full Color Poplar Branches"
 output: html_document
 date: "Week 3"
 ---
+```{r}
+
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-::: {style="text-align: center;"}
+<div style="text-align: center;">
 ## Assignment Details <br>
-:::
+</div>
 
 Create a detailed, full-color illustration of a branch from Populus balsamifera and Populus trichocarpa using colored pencils. Focus on accurately representing the structure, texture, and coloration of the branches, including leaves, buds, and other distinguishing features. The goal is to produce realistic and scientifically accurate depictions of each species.
 
-::: {style="margin-top: 3em;"}
-:::
+<div style="margin-top: 3em;"></div>
 
-::: {style="text-align: center;"}
+<div style="text-align: center;">
 *Space for Submission*
-:::
+</div>
 
-::: {style="margin-top: 6em;"}
-:::
+<div style="margin-top: 6em;"></div>
 
-::: {#disqus_thread}
-:::
-
-```{=html}
+<div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
-        this.page.url = window.location.href;
-        this.page.identifier = window.location.pathname;
+        this.page.url = window.location.href;  // The page's canonical URL
+        this.page.identifier = window.location.pathname; // The page's unique identifier
     };
-    (function() { // DON'T EDIT BELOW THIS LINE
+    (function() {  // DO NOT EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
         s.src = 'https://inde-study.disqus.com/embed.js';
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
     })();
 </script>
-```
-
 <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
-

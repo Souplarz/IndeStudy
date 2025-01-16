@@ -302,10 +302,10 @@ each species.</p>
 </div>
 <script>
     var disqus_config = function () {
-        this.page.url = window.location.href;
-        this.page.identifier = window.location.pathname;
+        this.page.url = window.location.href;  // The page's canonical URL
+        this.page.identifier = window.location.pathname; // The page's unique identifier
     };
-    (function() { // DON'T EDIT BELOW THIS LINE
+    (function() {  // DO NOT EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
         s.src = 'https://inde-study.disqus.com/embed.js';
         s.setAttribute('data-timestamp', +new Date());
