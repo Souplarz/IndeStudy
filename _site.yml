@@ -1,7 +1,7 @@
 name: "IndeStudy"
 output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "Sci Ill"
   left:
     - text: "Home"
       href: index.html
