@@ -11,6 +11,8 @@ date: "Week 3"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<br>
+
 <div style="text-align: center;">
 ## Assignment Details <br>
 </div>
