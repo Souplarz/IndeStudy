@@ -1,13 +1,11 @@
 ---
-title: "Web Page Setup"
+title: "Homework 2"
 output: html_document
-date: "2025-01-15"
+date: "2025-01-16"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
-
-homework 1
+Put Homework 2 here!

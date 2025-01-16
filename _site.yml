@@ -1,0 +1,11 @@
+name: "IndeStudy"
+output_dir: "docs"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Homework 1"
+      href: homework1.html
+    - text: "Homework 2"
+      href: homework2.html
